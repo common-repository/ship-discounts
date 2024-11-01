@@ -1,0 +1,836 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ship Discounts\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-18 13:16+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.3\n"
+"X-Domain: ship-discounts"
+
+#: api/api.php:328 api/api.php:335
+msgid "Accepted values"
+msgstr ""
+
+#: includes/order-meta-box.php:245 includes/wc-settings-section.php:374
+msgid "Add box"
+msgstr ""
+
+#: includes/wc-settings-section.php:354
+msgid "Additional cost"
+msgstr ""
+
+#: includes/order-meta-box.php:294
+msgid "Additional cost for using these boxes. Will be added to shipping costs."
+msgstr ""
+
+#: includes/wc-settings-section.php:358
+msgid "Additional cost for using this box. Will be added to shipping costs."
+msgstr ""
+
+#: includes/settings-shipping-method.php:96
+#: includes/wc-settings-section.php:165
+msgid "Allow all products"
+msgstr ""
+
+#: includes/wc-settings-section.php:82
+msgid "Allow customer to select if they need a signature."
+msgstr ""
+
+#: includes/settings-shipping-method.php:85
+#: includes/wc-settings-section.php:152
+msgid "Allowed/Denied classes"
+msgstr ""
+
+#: includes/settings-shipping-method.php:112
+#: includes/wc-settings-section.php:181
+msgid "Allowlist"
+msgstr ""
+
+#: page-settings.php:111
+msgid "An error has occurred. Your shop could not be connected."
+msgstr ""
+
+#: page-settings.php:105
+msgid "An error has occurred. Your shop could not be disconnected."
+msgstr ""
+
+#: page-settings.php:201 page-settings.php:213
+msgid "API Key"
+msgstr ""
+
+#: page-settings.php:207 page-settings.php:218
+msgid "API Token"
+msgstr ""
+
+#: includes/order-meta-box.php:43
+msgid ""
+"Be careful! Development mode is activated. No real orders will be created."
+msgstr ""
+
+#: includes/class-lar-boxes.php:79
+msgid "Box"
+msgstr ""
+
+#: includes/wc-settings-section.php:301
+msgid "Boxes"
+msgstr ""
+
+#: includes/order-meta-box.php:146
+msgid "Cancel these orders"
+msgstr ""
+
+#: includes/class-lar-carriers.php:139
+msgid "Canceled"
+msgstr ""
+
+#: includes/wc-settings-section.php:222
+msgid "Carrier Code"
+msgstr ""
+
+#: includes/order-meta-box.php:67 includes/order-meta-box.php:375
+msgid "Carrier code"
+msgstr ""
+
+#: includes/wc-shipping-ship-discounts.php:433
+msgid "Carrier.Service Code"
+msgstr ""
+
+#: includes/order-meta-box.php:338 includes/settings-shipping-method.php:127
+#: includes/wc-cart-checkout.php:244 includes/wc-settings-section.php:210
+msgid "Carriers"
+msgstr ""
+
+#: includes/order-meta-box.php:323
+msgid "Characters count"
+msgstr ""
+
+#: includes/order-meta-box.php:342
+msgid "Chosen carrier."
+msgstr ""
+
+#: includes/wc-settings-section.php:161
+msgid "Class management"
+msgstr ""
+
+#: includes/settings-shipping-method.php:16 includes/wc-cart-checkout.php:267
+msgid "Cost"
+msgstr ""
+
+#: includes/class-lar-carriers.php:138
+msgid "Delivered"
+msgstr ""
+
+#: includes/wc-cart-checkout.php:273
+msgid "Delivery date"
+msgstr ""
+
+#: includes/order-meta-box.php:98
+msgid "Delivery status:"
+msgstr ""
+
+#: includes/settings-shipping-method.php:119
+#: includes/wc-settings-section.php:189
+msgid "Denylist"
+msgstr ""
+
+#: page-settings.php:95
+msgid "Development"
+msgstr ""
+
+#: page-settings.php:191
+msgid "Development mode"
+msgstr ""
+
+#: includes/class-lar-carriers.php:33
+msgid "Dicom"
+msgstr ""
+
+#: includes/order-meta-box.php:224
+msgid "Dimensions and weights of the used packages."
+msgstr ""
+
+#: ship-discounts-lar.php:333
+msgid "Displays the carrier code"
+msgstr ""
+
+#: ship-discounts-lar.php:334
+msgid "Displays the service code"
+msgstr ""
+
+#: ship-discounts-lar.php:332
+msgid "Displays the tracking code with the URL"
+msgstr ""
+
+#: includes/wc-settings-section.php:225
+#: includes/wc-shipping-ship-discounts.php:435
+msgid "Enabled"
+msgstr ""
+
+#: includes/settings-shipping-method.php:19
+msgid ""
+"Enter a base cost. Carrier and box rates (if applicable) will be added to "
+"this cost."
+msgstr ""
+
+#: includes/class-lar-carriers.php:58
+msgid "Expedited"
+msgstr ""
+
+#: includes/class-lar-carriers.php:79
+msgid "Express"
+msgstr ""
+
+#: includes/order-meta-box.php:290
+msgid "Extra cost of box(es)"
+msgstr ""
+
+#: includes/wc-settings-section.php:227
+#: includes/wc-shipping-ship-discounts.php:436
+msgid "Factor to apply"
+msgstr ""
+
+#: includes/wc-settings-section.php:71
+msgid "Free shipping on orders over"
+msgstr ""
+
+#: includes/order-meta-box.php:349
+msgid "Get quotes"
+msgstr ""
+
+#: includes/class-lar-carriers.php:25 includes/class-lar-carriers.php:99
+msgid "Ground"
+msgstr ""
+
+#: includes/order-meta-box.php:237
+msgid "Height"
+msgstr ""
+
+#: ship-discounts-lar.php:433
+msgid "height"
+msgstr ""
+
+#: includes/class-lar-carriers.php:17
+msgid "ICS Courrier"
+msgstr ""
+
+#: includes/wc-settings-section.php:366
+msgid ""
+"If specified, the box will only be used if all items in the order belong to "
+"the chosen class."
+msgstr ""
+
+#: page-settings.php:196
+msgid ""
+"If this option is activated, data will be retrieved from and sent to the "
+"Ship Discounts development platform. Please note that no actual orders will "
+"be created."
+msgstr ""
+
+#: includes/class-lar-carriers.php:137
+msgid "In transit"
+msgstr ""
+
+#: includes/wc-settings-section.php:335
+msgid "Inner height"
+msgstr ""
+
+#: includes/wc-settings-section.php:333
+msgid "Inner length"
+msgstr ""
+
+#: includes/wc-settings-section.php:334
+msgid "Inner width"
+msgstr ""
+
+#: api/api.php:328
+msgid "Invalid Carrier Code."
+msgstr ""
+
+#: api/api.php:257 api/api.php:407
+msgid "Invalid ID Format."
+msgstr ""
+
+#: api/api.php:321
+msgid "Invalid LAR Order ID."
+msgstr ""
+
+#: api/api.php:335
+msgid "Invalid Service Code."
+msgstr ""
+
+#: api/api.php:254 api/api.php:316
+msgid "Invalid Woocommerce Order ID."
+msgstr ""
+
+#: includes/class-lar-carriers.php:136
+msgid "Label created"
+msgstr ""
+
+#: includes/order-meta-box.php:235
+msgid "Length"
+msgstr ""
+
+#: ship-discounts-lar.php:435
+msgid "length"
+msgstr ""
+
+#: includes/order-meta-box.php:128
+msgid "Manage my orders (Customer Portal)"
+msgstr ""
+
+#: includes/wc-settings-section.php:345
+msgid "Max weight"
+msgstr ""
+
+#: includes/wc-settings-section.php:349
+msgid "Maximum weight of the box (including its own weight)."
+msgstr ""
+
+#: includes/settings-shipping-method.php:9 includes/wc-settings-section.php:224
+#: includes/wc-settings-section.php:329
+#: includes/wc-shipping-ship-discounts.php:434
+msgid "Name"
+msgstr ""
+
+#: includes/class-lar-carriers.php:44
+msgid "Nationex"
+msgstr ""
+
+#: includes/class-lar-carriers.php:140
+msgid "Need attention"
+msgstr ""
+
+#: includes/class-lar-carriers.php:20
+msgid "Next Day"
+msgstr ""
+
+#: includes/order-meta-box.php:199 includes/wc-product-settings.php:47
+#: includes/wc-product-settings.php:65
+msgid "Non-conveyable"
+msgstr ""
+
+#: includes/order-meta-box.php:316
+msgid "Note to the carrier, printed on the label. Maximum 30 characters."
+msgstr ""
+
+#: includes/order-meta-box.php:50
+msgid "Note: the customer did not choose the Ship Discounts shipping method."
+msgstr ""
+
+#. Description of the plugin
+#: includes/wc-shipping-ship-discounts.php:79
+msgid "Offer your customers shipping services with real-time quotes."
+msgstr ""
+
+#: includes/wc-settings-section.php:58
+msgid "Offer your customers shipping services with realtime quoting."
+msgstr ""
+
+#: includes/class-lar-carriers.php:84
+msgid "On Saturday"
+msgstr ""
+
+#: includes/settings-shipping-method.php:97
+#: includes/wc-settings-section.php:166
+msgid "Only allow these classes"
+msgstr ""
+
+#: includes/settings-shipping-method.php:98
+#: includes/wc-settings-section.php:167
+msgid "Only deny these classes"
+msgstr ""
+
+#: includes/order-meta-box.php:66
+msgid "Order number"
+msgstr ""
+
+#: includes/wc-settings-section.php:332
+msgid "Outer height"
+msgstr ""
+
+#: includes/wc-settings-section.php:330
+msgid "Outer length"
+msgstr ""
+
+#: includes/wc-settings-section.php:331
+msgid "Outer width"
+msgstr ""
+
+#: includes/order-meta-box.php:220
+msgid "Package dimensions and weights"
+msgstr ""
+
+#: includes/settings-shipping-method.php:63
+msgid "Package's height in inches."
+msgstr ""
+
+#: includes/wc-settings-section.php:119
+msgid "Package's height in inches. The value must be between 0.1 and 144."
+msgstr ""
+
+#: includes/settings-shipping-method.php:54
+msgid "Package's length in inches."
+msgstr ""
+
+#: includes/wc-settings-section.php:109
+msgid "Package's length in inches. The value must be between 0.1 and 144."
+msgstr ""
+
+#: includes/settings-shipping-method.php:72
+msgid "Package's weight in pounds."
+msgstr ""
+
+#: includes/wc-settings-section.php:129
+msgid "Package's weight in pounds. The value must be between 0.1 and 150."
+msgstr ""
+
+#: includes/settings-shipping-method.php:45
+msgid "Package's width in inches."
+msgstr ""
+
+#: includes/wc-settings-section.php:99
+msgid "Package's width in inches. The value must be between 0.1 and 144."
+msgstr ""
+
+#: includes/wc-settings-section.php:38
+msgid "Phone Number"
+msgstr ""
+
+#: includes/wc-settings-section.php:463
+msgid ""
+"Please note ! The following products do not have a valid weight, length, "
+"height, width and/or SKU:"
+msgstr ""
+
+#: includes/class-lar-carriers.php:55
+msgid "Poste Canada"
+msgstr ""
+
+#: includes/settings-shipping-method.php:60
+#: includes/wc-settings-section.php:116
+msgid "Predefined package's height"
+msgstr ""
+
+#: includes/settings-shipping-method.php:51
+#: includes/wc-settings-section.php:106
+msgid "Predefined package's length"
+msgstr ""
+
+#: includes/settings-shipping-method.php:69
+#: includes/wc-settings-section.php:126
+msgid "Predefined package's weight"
+msgstr ""
+
+#: includes/settings-shipping-method.php:42 includes/wc-settings-section.php:96
+msgid "Predefined package's width"
+msgstr ""
+
+#: includes/class-lar-carriers.php:63
+msgid "Priority"
+msgstr ""
+
+#: page-settings.php:95
+msgid "Production"
+msgstr ""
+
+#: includes/class-lar-carriers.php:76
+msgid "Purolator"
+msgstr ""
+
+#: includes/order-meta-box.php:69 includes/order-meta-box.php:377
+msgid "Quoted rate"
+msgstr ""
+
+#: includes/class-lar-carriers.php:36 includes/class-lar-carriers.php:47
+#: includes/class-lar-carriers.php:110
+msgid "Regular"
+msgstr ""
+
+#: includes/order-meta-box.php:247 includes/wc-settings-section.php:375
+msgid "Remove selected box(es)"
+msgstr ""
+
+#: page-settings.php:238
+msgid "Save changes"
+msgstr ""
+
+#: includes/order-meta-box.php:118
+msgid "See the label"
+msgstr ""
+
+#. %s: WooCommerce shipping classes settings page
+#: includes/settings-shipping-method.php:89
+#: includes/wc-settings-section.php:156
+#, php-format
+msgid ""
+"Select which <a target=\"_blank\" href=\"%s\">product shipping classes</a> "
+"can or can not use this shipping method."
+msgstr ""
+
+#: includes/wc-settings-section.php:212
+msgid ""
+"Select which carriers to display. You can also set a factor to apply on the "
+"rate for each of them."
+msgstr ""
+
+#: includes/settings-shipping-method.php:129
+msgid ""
+"Select which carriers to display. You can also set a factor to apply on the "
+"rate for each of them. Example : A factor of 1.2 will multiply the carrier’s "
+"rate by 1.2 before being presented at checkout."
+msgstr ""
+
+#: includes/order-meta-box.php:166 includes/order-meta-box.php:168
+#: includes/order-meta-box.php:400
+msgid "Send to Ship Discounts"
+msgstr ""
+
+#: includes/wc-settings-section.php:223
+msgid "Service Code"
+msgstr ""
+
+#: includes/order-meta-box.php:68 includes/order-meta-box.php:376
+msgid "Service code"
+msgstr ""
+
+#. Name of the plugin
+#: api/api.php:393 includes/order-meta-box.php:27
+#: includes/order-meta-box.php:587 includes/settings-shipping-method.php:12
+#: includes/wc-settings-section.php:56 includes/wc-settings-section.php:504
+#: includes/wc-shipping-ship-discounts.php:78
+msgid "Ship Discounts"
+msgstr ""
+
+#: ship-discounts-lar.php:279
+msgid "Ship Discounts API"
+msgstr ""
+
+#: page-settings.php:177
+msgid "Ship Discounts API Activation"
+msgstr ""
+
+#: includes/wc-cart-checkout.php:312
+msgid "Ship Discounts Carriers"
+msgstr ""
+
+#: ship-discounts-lar.php:337
+msgid "Ship Discounts placeholders"
+msgstr ""
+
+#: includes/settings-shipping-method.php:25 includes/wc-settings-section.php:62
+msgid "Shipment value"
+msgstr ""
+
+#: includes/wc-settings-section.php:362
+msgid "Shipping class"
+msgstr ""
+
+#: includes/order-meta-box.php:312
+msgid "Shipping note"
+msgstr ""
+
+#: includes/wc-settings-section.php:73
+msgid ""
+"Shipping will be free for orders of this value and above. The cheapest "
+"carrier will be automatically selected for you. Leave blank to disable the "
+"option."
+msgstr ""
+
+#: includes/wc-settings-section.php:80
+msgid "Show the signature option?"
+msgstr ""
+
+#: includes/order-meta-box.php:70 includes/order-meta-box.php:378
+msgid "Shown rate"
+msgstr ""
+
+#: includes/order-meta-box.php:182
+msgid "Signature"
+msgstr ""
+
+#: includes/wc-cart-checkout.php:238
+msgid "Signature is required"
+msgstr ""
+
+#: ship-discounts-lar.php:331
+msgid ""
+"Since the plugin Ship Discounts is activated, you have access to the "
+"following placeholders: "
+msgstr ""
+
+#: ship-discounts-lar.php:436
+msgid "SKU"
+msgstr ""
+
+#: includes/wc-cart-checkout.php:308
+msgid "Sorry, one or more products do not meet Ship Discounts' requirements."
+msgstr ""
+
+#: includes/wc-cart-checkout.php:302
+msgid "Sorry, there are no available carriers."
+msgstr ""
+
+#: includes/order-meta-box.php:95
+msgid "Sorry, we can not fetch the order's current status right now."
+msgstr ""
+
+#: includes/order-meta-box.php:114
+msgid "Sorry, we can not fetch the order's label right now."
+msgstr ""
+
+#: ship-discounts-lar.php:220 includes/wc-cart-checkout.php:299
+msgid "Sorry, we could not fetch the carriers' quotes. Please try again."
+msgstr ""
+
+#: includes/wc-cart-checkout.php:405
+msgid ""
+"Sorry, you can not use the Ship Discounts shipping method without a carrier."
+msgstr ""
+
+#: includes/order-meta-box.php:121
+msgid "The label has not been created yet."
+msgstr ""
+
+#. %s: Ship Discounts website
+#: ship-discounts-lar.php:224
+#, php-format
+msgid ""
+"The new order was not created because the current order could not be "
+"cancelled.<br><a target='_blank' href='%s'>You can try to delete it manually."
+"</a>"
+msgstr ""
+
+#: ship-discounts-lar.php:231
+msgid "The order could not be created. Please try again."
+msgstr ""
+
+#: includes/order-meta-box.php:56
+msgid "The order has not been submitted yet."
+msgstr ""
+
+#: ship-discounts-lar.php:228
+msgid ""
+"The order was not created because one or more mandatory fields are missing. "
+"You can start by checking the customer's shipping address."
+msgstr ""
+
+#: ship-discounts-lar.php:227
+msgid ""
+"The order was not created because the billing phone number is invalid. "
+"Please note that extensions will not be used."
+msgstr ""
+
+#: ship-discounts-lar.php:230
+msgid "The order was not created because the packages dimensions are invalid."
+msgstr ""
+
+#: ship-discounts-lar.php:226
+msgid ""
+"The order was not created because the shipping phone number is invalid. "
+"Please note that extensions will not be used."
+msgstr ""
+
+#: ship-discounts-lar.php:225
+msgid ""
+"The order was not created because the shop phone number is invalid. Please "
+"note that extensions will not be used."
+msgstr ""
+
+#: ship-discounts-lar.php:229
+msgid "The order was not created because there a no packages."
+msgstr ""
+
+#: ship-discounts-lar.php:219
+msgid "The products must have a SKU."
+msgstr ""
+
+#: ship-discounts-lar.php:222
+msgid "The products must have valid dimensions and weight."
+msgstr ""
+
+#: includes/order-meta-box.php:63
+msgid "The signature is required."
+msgstr ""
+
+#: api/api.php:192
+msgid "The token does not match the shop's."
+msgstr ""
+
+#: includes/wc-settings-section.php:467
+msgid ""
+"The weight must be between 0.1 and 150 pounds. The dimensions must be "
+"between 0.1 and 144 inches. Products too small and/or light can still be "
+"purchased if used with packages and/or boxes."
+msgstr ""
+
+#: includes/order-meta-box.php:64
+msgid "There is a non-conveyable object."
+msgstr ""
+
+#: ship-discounts-lar.php:232
+msgid "These orders could not be cancelled. Please try again."
+msgstr ""
+
+#: includes/order-meta-box.php:139
+msgid "These previous orders have not been cancelled. You should remove them."
+msgstr ""
+
+#: includes/wc-settings-section.php:325
+msgid "This order will be prioritized when packaging."
+msgstr ""
+
+#: api/api.php:189
+msgid "This shop does not have a token."
+msgstr ""
+
+#: api/api.php:183
+msgid "This shop has not been connected."
+msgstr ""
+
+#: includes/settings-shipping-method.php:28 includes/wc-settings-section.php:64
+msgid ""
+"This value represents the maximum claimable value for a lost or damaged "
+"shipment. Default is 100 CAD which is included without any charge."
+msgstr ""
+
+#: ship-discounts-lar.php:221 includes/wc-cart-checkout.php:305
+msgid "To view our carriers' quotes, please insert a valid postal code."
+msgstr ""
+
+#: includes/class-lar-carriers.php:94 includes/class-lar-carriers.php:115
+msgid "Tomorrow at 10H30"
+msgstr ""
+
+#: includes/class-lar-carriers.php:120
+msgid "Tomorrow at 15H00"
+msgstr ""
+
+#: includes/class-lar-carriers.php:89
+msgid "Tomorrow at 9H00"
+msgstr ""
+
+#: ship-discounts-lar.php:306
+msgid "Track my order"
+msgstr ""
+
+#: includes/order-meta-box.php:102
+msgid "Tracking:"
+msgstr ""
+
+#: includes/class-lar-carriers.php:135
+msgid "Unknown"
+msgstr ""
+
+#: includes/class-lar-carriers.php:107
+msgid "UPS"
+msgstr ""
+
+#: includes/settings-shipping-method.php:34 includes/wc-settings-section.php:88
+msgid "Use a predefined package for rate quoting?"
+msgstr ""
+
+#: includes/wc-settings-section.php:306 includes/wc-settings-section.php:310
+msgid "Use predefined boxes for packaging?"
+msgstr ""
+
+#: includes/order-meta-box.php:238
+msgid "Weight"
+msgstr ""
+
+#: ship-discounts-lar.php:432
+msgid "weight"
+msgstr ""
+
+#: includes/wc-settings-section.php:337
+msgid "Weight of box"
+msgstr ""
+
+#: includes/wc-settings-section.php:341
+msgid "Weight of the empty box. Will be added to the calculation."
+msgstr ""
+
+#: includes/order-meta-box.php:186
+msgid "Whether or not the signature is required."
+msgstr ""
+
+#: includes/order-meta-box.php:203
+msgid "Whether or not this contains a non-conveyable product."
+msgstr ""
+
+#: includes/wc-product-settings.php:49 includes/wc-product-settings.php:67
+msgid "Whether or not this product is non-conveyable."
+msgstr ""
+
+#: includes/order-meta-box.php:236
+msgid "Width"
+msgstr ""
+
+#: ship-discounts-lar.php:434
+msgid "width"
+msgstr ""
+
+#: includes/class-lar-carriers.php:68
+msgid "Xpresspost"
+msgstr ""
+
+#: includes/order-meta-box.php:173
+msgid ""
+"You can (re)send an order for these products to this address. You can change "
+"the carrier, packaging, boxes cost, whether a signature is required and if "
+"there are one or more non-conveyable products. Please note that the total "
+"cost may change."
+msgstr ""
+
+#: includes/wc-settings-section.php:231
+msgid ""
+"You can set a factor to apply on the actual rates. Example : A factor of 1.2 "
+"will multiply the carrier’s rate by 1.2 before being presented at checkout."
+msgstr ""
+
+#: includes/settings-shipping-method.php:37 includes/wc-settings-section.php:91
+msgid ""
+"You can set one package's dimensions and weight and use it for rate quoting. "
+"If this option is disabled, the product's dimensions and weight will be used "
+"instead."
+msgstr ""
+
+#: includes/wc-settings-section.php:314
+msgid ""
+"You can specify the box types to be used to calculate package dimensions and "
+"weights. If no box is configured, each product will be packed individually. "
+"A product that doesn't fit into any box will also be packed individually."
+msgstr ""
+
+#. %s: WooCommerce general settings page
+#: includes/order-meta-box.php:54
+#, php-format
+msgid ""
+"You must enter <a target=\"_blank\" href=\"%s\">your store's contact "
+"details</a> in order to create an order."
+msgstr ""
+
+#: includes/settings-shipping-method.php:11
+msgid ""
+"Your customers will see the name of this shipping method during checkout."
+msgstr ""
+
+#: page-settings.php:99
+msgid "Your shop has been connected."
+msgstr ""
+
+#: page-settings.php:183
+msgid "Your shop is currently disconnected."
+msgstr ""
+
+#: includes/wc-settings-section.php:39
+msgid "Your shop phone number."
+msgstr ""

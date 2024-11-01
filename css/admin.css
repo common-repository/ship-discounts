@@ -1,0 +1,207 @@
+/* Shipping classes multiselect */
+.lar_classes_list optgroup::before {
+  display: none;
+}
+.lar_classes_list:hover {
+  color: inherit !important;
+}
+.lar_classes_list option:hover {
+  color: #2271b1 !important;
+}
+.lar_classes_list option:checked {
+  background: inherit !important;
+}
+
+/* Carriers table */
+table.lar_carriers_table {
+  font-size: 14px;
+}
+table.lar_carriers_table tr.lar_carriers_row {
+  background: #f0f0f1;
+}
+table.lar_carriers_table tr th {
+  vertical-align: middle;
+  padding: 1em;
+  font-weight: 600;
+}
+table.lar_carriers_table tr td {
+  display: table-cell !important;
+  font-size: 14px;
+  vertical-align: middle;
+  padding: 24px 12px;
+}
+table.lar_carriers_table tr td.lar_carriers_service_code {
+  color: #2c3338;
+  font-weight: 600;
+}
+table.lar_carriers_table.lar_carriers_table_modal .lar_carriers_center {
+  text-align: center;
+}
+table.lar_carriers_table.lar_carriers_table_modal tr:nth-child(even) {
+  background: #f9f9f9;
+}
+table.lar_carriers_table.lar_carriers_table_modal th {
+  padding: 0 10px 10px 0 !important;
+}
+table.lar_carriers_table.lar_carriers_table_modal th:last-child {
+  padding-right: 0 !important;
+}
+table.lar_carriers_table.lar_carriers_table_modal td {
+  padding: 0 10px 0 0 !important;
+}
+table.lar_carriers_table.lar_carriers_table_modal td:last-child {
+  padding-right: 0 !important;
+}
+
+/* Boxes table */
+table.lar_boxes_table thead tr th {
+  font-weight: 600;
+}
+table.lar_boxes_table tbody tr td span {
+  display: flex;
+  align-items: center;
+}
+table.lar_boxes_table tbody tr td:not(.check-column) input:not([type=checkbox]),
+table.lar_boxes_table tbody tr td:not(.check-column) select {
+  width: 100%;
+}
+table.lar_boxes_table tbody tr td:not(.check-column) select {
+  border-color: rgba(0, 0, 0, 0.15);
+}
+table.lar_boxes_table tbody tr td.check-column {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  padding: 0;
+  height: 50px;
+}
+table.lar_boxes_table tbody tr td.check-column input[type=checkbox] {
+  margin: 0 0 0 8px;
+}
+table.lar_boxes_table tbody tr td.sort {
+  padding-top: 14px;
+  cursor: grab;
+}
+table.lar_boxes_table tbody tr:nth-child(even) {
+  background: #f9f9f9;
+}
+table.lar_boxes_table tbody tr.ui-sortable-helper {
+  display: flex;
+  flex-wrap: nowrap;
+}
+table.lar_boxes_table tbody tr.ui-sortable-helper td {
+  width: initial;
+}
+
+/* Problematic products list */
+#lar_products_missing h4 {
+  margin: 0 0 5px;
+}
+#lar_products_missing #lar_products_missing_scroll {
+  max-height: 200px;
+  overflow-y: scroll;
+  max-width: 650px;
+  background: white;
+  border-radius: 2px;
+  border: 1px solid #8c8f94;
+  padding: 10px 10px 0;
+}
+#lar_products_missing #lar_products_missing_scroll a {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+/* Resend order */
+#TB_window p.send-order-desc {
+  text-align: center;
+  font-weight: bold;
+}
+#TB_window p.submit,
+#TB_window p#lar-error-msg {
+  text-align: center;
+}
+#TB_window table:not([class]) {
+  border-collapse: collapse;
+  margin-top: 0.5em;
+  width: 100%;
+  clear: both;
+}
+#TB_window table:not([class]) tbody tr th.titledesc {
+  padding: 20px 10px 20px 0;
+}
+#TB_window table:not([class]) tbody tr th.titledesc label {
+  text-align: left;
+  line-height: 1.3;
+  font-weight: 600;
+  color: #1d2327;
+  font-size: 14px;
+}
+#TB_window #shipping-note {
+  resize: none;
+}
+#TB_window #shipping-note-counter {
+  display: block;
+  font-size: smaller;
+}
+#TB_window .carriers-list .carriers-list-header,
+#TB_window .carriers-list .carriers-list-carrier,
+#TB_window .carriers-list label {
+  display: flex;
+}
+#TB_window .carriers-list .carriers-list-header {
+  border-bottom: 1px solid #c3c4c7;
+  padding: 8px 0;
+}
+#TB_window .carriers-list .carriers-list-header span {
+  line-height: 1.3;
+  font-weight: 600;
+  color: #1d2327;
+  font-size: 14px;
+  align-self: center;
+}
+#TB_window .carriers-list .carriers-list-carriers {
+  padding-bottom: 15px;
+}
+#TB_window .carriers-list .carriers-list-carriers .carriers-list-carrier {
+  align-items: end;
+  padding: 8px 0;
+}
+#TB_window .carriers-list .carriers-list-carriers .carriers-list-carrier:nth-child(2n) {
+  background: #f9f9f9;
+}
+#TB_window .carriers-list .carriers-list-carriers .carriers-list-carrier.default-carrier {
+  color: #135e96;
+}
+#TB_window .carriers-list .carriers-list-carriers .carriers-list-carrier.default-carrier input {
+  border-color: #135e96;
+}
+#TB_window .carriers-list .carrier-loader {
+  padding: 8px 0;
+  text-align: center;
+}
+#TB_window .carriers-list .carrier-loader img {
+  width: 100%;
+  height: 10px;
+}
+#TB_window .carriers-list label {
+  width: 100%;
+}
+#TB_window .carriers-list span {
+  width: 25%;
+}
+
+/* Buttons */
+#btn-lar-cancel-orders {
+  background: #b32d2e;
+  border-color: #b32d2e;
+  color: #fff;
+  text-decoration: none;
+  text-shadow: none;
+}
+
+/* Danger message */
+.lar_danger_message {
+  color: #b32d2e;
+}
+
+/*# sourceMappingURL=admin.css.map */

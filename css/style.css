@@ -1,0 +1,30 @@
+/* Signature checkbox */
+input#lar_signature {
+  margin: 0;
+}
+
+/* Carriers list */
+ul#lar_cart_checkout_carriers_list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+ul#lar_cart_checkout_carriers_list label {
+  font-weight: initial;
+}
+ul#lar_cart_checkout_carriers_list label.lar_cart_checkout_carriers_label {
+  font-weight: 600;
+}
+ul#lar_cart_checkout_carriers_list li {
+  padding-left: 10px;
+  margin: 0 0 0.5em;
+  line-height: 1.5em;
+}
+ul#lar_cart_checkout_carriers_list li p {
+  margin-top: 0;
+  font-weight: initial;
+  font-size: smaller;
+  line-height: 1.2em;
+}
+
+/*# sourceMappingURL=style.css.map */
